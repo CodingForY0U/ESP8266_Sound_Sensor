@@ -1,1 +1,38 @@
+# Secrets
+secrets.h
+
+# Compiled object files
+*.o
+
+# Compiled dynamic libraries
+*.so
+
+# Compiled static libraries
+*.a
+
+# Executables
+*.exe
+
+# Arduino sketch files
+*.cpp
+*.ino
+
+# Build output
+build/
+
+# MacOS specific files
+.DS_Store
+
+# Windows specific files
+Thumbs.db
+
+# Arduino IDE specific files
+*.arduino15/
+*.history/
+*.vscode/
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
 
